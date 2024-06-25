@@ -1,5 +1,3 @@
-📁 Repositório Data-Science:
-
 # 📁 Projetos de Data Science
 
 ## Análise da COVID-19 no Brasil 🦠
@@ -15,3 +13,7 @@
 ## Top 100 Livros Amazon - Streamlit 📚
 [Link para o repositório do projeto](https://github.com/enps2015/top-100-livros-amazon-streamlit)
 * Este repositório contém um projeto de análise de dados dos Top 100 livros mais vendidos na Amazon no ano de 2021. O projeto foi feito usando a biblioteca Python Streamlit, Pandas e Plotly.
+
+## Dash COVID-19 Streamlit 📊
+[Link para o repositório do projeto](https://github.com/enps2015/dash-covid-streamlit)
+* Um dashboard interativo com Streamlit para visualização de dados da COVID-19 no Brasil, utilizando bibliotecas como Pandas e Plotly.
