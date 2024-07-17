@@ -17,3 +17,9 @@
 ## Dash COVID-19  📊
 [Link para o repositório do projeto](https://github.com/enps2015/analiseCovid19)
 * Um dashboard interativo com Streamlit para visualização de dados da COVID-19 no Brasil, utilizando bibliotecas como Pandas e Plotly.
+
+## Télos Simulador Nível1 trilha de Dados  📊
+[Link para o repositório do projeto](https://github.com/enps2015/TelosSimuladorNivel1)
+* Um projeto de Análise de Dados que visa inspecionar as vendas de carros no Nordeste do Brasil para responder as perguntas de negócios.
+* Baseado em análise Estatísticas e Machine Learning (Séries Temporais e Regressão)
+
