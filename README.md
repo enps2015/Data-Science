@@ -23,3 +23,9 @@
 * Um projeto de Análise de Dados que visa inspecionar as vendas de carros no Nordeste do Brasil para responder as perguntas de negócios.
 * Baseado em análise Estatísticas e Machine Learning (Séries Temporais e Regressão)
 
+## Explorando gráficos de Violino: Como usar essa ferramenta nas Análises de Dados
+[Link para o repositório do projeto](https://github.com/enps2015/graficoViolino)
+* Um projeto de Análise de Dados usando o dataset Iris.
+* Usando graficos de Violino para analisar pétalas e sépalas de flores
+* Baseado em análise Estatísticas, uso algumas métricas para criar graficos de violinmo usando as biliotecas Matplotlib, Seaborn e Plotly
+
