@@ -78,6 +78,18 @@ Bem-vindo ao meu portfólio de Data Science! Como estudante de Análise e Desenv
 
 ---
 
+### 📈 Análise de Vendas de E-commerce - Influenciador
+![Gráficos de Violino](https://github.com/enps2015/TelosSimuladorNivel09/raw/main/img/dashboard_p01.png)
+
+[Link para o repositório do projeto](https://github.com/enps2015/TelosSimuladorNivel09)
+* Integração de dados com Google BigQuery e Google Sheets.
+* Análise de dados de vendas diversas do influencer.
+* Uso de fórmulas para obter métricas diversas.
+* Demonstração prática de análise estatística visual.
+
+---
+
+
 ### 📈 Explorando gráficos de Violino
 ![Gráficos de Violino](https://private-user-images.githubusercontent.com/84017071/357915315-c07cc387-0a5c-48ad-820b-2d16816be7c2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk4MTExNzcsIm5iZiI6MTczOTgxMDg3NywicGF0aCI6Ii84NDAxNzA3MS8zNTc5MTUzMTUtYzA3Y2MzODctMGE1Yy00OGFkLTgyMGItMmQxNjgxNmJlN2MyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE3VDE2NDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0OWM3MjYyOTI1N2IwYjQ3Y2U4NGFmYTNkYmZlOWJiZDA2ZGNhZWE1NzUyYWNiOGQyNmVkNDhlZTZjZDMxMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UgzIb2bUo0ShUCi7JTYADkBIVcXlzGzC9D2CVuszqQA)
 
@@ -87,6 +99,7 @@ Bem-vindo ao meu portfólio de Data Science! Como estudante de Análise e Desenv
 * Demonstração prática de análise estatística visual.
 
 ---
+
 
 ## 📊 Métricas
 
