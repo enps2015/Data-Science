@@ -78,7 +78,7 @@ Bem-vindo ao meu portfólio de Data Science! Como estudante de Análise e Desenv
 
 ---
 
-### 📈 Análise de Vendas de E-commerce - Influenciador
+### 📈 Análise de Vendas de E-commerce - Influenciador com Google Looker Studio
 ![Gráficos de Violino](https://github.com/enps2015/TelosSimuladorNivel09/raw/main/img/dashboard_p01.png)
 
 [Link para o repositório do projeto](https://github.com/enps2015/TelosSimuladorNivel09)
